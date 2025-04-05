@@ -1,0 +1,43 @@
+
+h1{
+    text-align: center;
+    color:darkgray
+}
+
+h2{
+text-align: center;
+color: black;
+}
+
+p{
+color: black;
+text-align: left;
+}
+img{
+display: block; margin: 0 auto;
+}
+
+h3{
+color: black;
+text-align: center;
+}
+nav {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            background-color: #3333339f;
+            padding: 15px 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+ }
+  nav a {
+            color: white;
+            text-decoration: none;
+            font-size: 16px;
+            padding: 10px 20px;
+            border-radius: 5px;
+            background-color: #ff6600;
+        }
+
+
